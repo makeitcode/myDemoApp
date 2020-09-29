@@ -1,0 +1,20 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "firstName": "sree",
+      "lastName": "kanth",
+      "code": "ck00476321",
+      "contactNumber": 9000000002,
+      "address": "kkkkk"
+    },
+    {
+      "id": 2,
+      "firstName": "sss",
+      "lastName": "rrrrr",
+      "code": "cm1234",
+      "contactNumber": 6000000002,
+      "address": "rrrrr"
+    }
+  ]
+}
